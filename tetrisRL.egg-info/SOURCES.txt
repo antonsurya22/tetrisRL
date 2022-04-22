@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+tetrisRL.egg-info/PKG-INFO
+tetrisRL.egg-info/SOURCES.txt
+tetrisRL.egg-info/dependency_links.txt
+tetrisRL.egg-info/requires.txt
+tetrisRL.egg-info/top_level.txt
